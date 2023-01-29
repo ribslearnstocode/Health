@@ -2,10 +2,9 @@
 
 ### Team members
 
-- Shambhavi Mishra
+- Ribence Kadel
 - Augusto Gonzalez Bonorino
 - Mostafa Azazy
-- rebelgiri
 - Darrell Keller
 - Hugo Adolfsson
 
